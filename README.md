@@ -39,7 +39,8 @@ For Existing User and New Title <br />
 {"score": "136" ,"title":{"name": "second title"}, "user": {"id": "64f1fdbd053c0f580eb33f65"}}
 ```
 
-** Fetching a list of highscore for a title with rank of user**<br />
+** Fetching a list of highscore for a title with rank of user**
+<br />
 [http://localhost:8080/v1/highscores/titles/{titleId}](http://localhost:8080/v1/highscores/titles/{titleId})<br />
 
 **Fetch full list of high scores**<br />
